@@ -8,6 +8,7 @@ public class main{
 	jump jumpagent = new jump();
 	System.out.println("------start------");
 	jumpagent.jumphalo();
+	jumpagent.jumpenergy(5);
 	System.out.println("------finish------");
 	
 	}
