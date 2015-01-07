@@ -10,6 +10,7 @@ public class main{
 	jumpagent.jumphalo();
 	jumpagent.jumpenergy(5);
 	System.out.println("Why?");
+	System.out.println("Whyy?");
 	System.out.println("------finish------");
 	
 	}
