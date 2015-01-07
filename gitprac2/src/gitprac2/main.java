@@ -9,6 +9,7 @@ public class main{
 	System.out.println("------start------");
 	jumpagent.jumphalo();
 	jumpagent.jumpenergy(5);
+	System.out.println("Why?");
 	System.out.println("------finish------");
 	
 	}
