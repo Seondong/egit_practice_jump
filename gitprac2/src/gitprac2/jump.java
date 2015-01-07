@@ -9,5 +9,7 @@ public class jump {
 	}
 	public static void jumpenergy2(int a){
 		System.out.println(a);
+		System.out.println(a);
+		System.out.println(a);
 	}
 }
